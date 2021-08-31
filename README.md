@@ -12,19 +12,15 @@ Eu sou Alex Gross
 
 - 🌱 Estudando novas tecnologias como: UI/Disigner (FIGMA E INVISIBLE), Flutter e C# .NET
 
-- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
-
-
-
 <!-- Painel de Trabalhos -->
 
 <div>
 
  <a href="https://github.com/alexsgross">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsgross&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfurquim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsgross&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfurquim&layout=compact&langs_count=7&theme=dark"/>
 
 </div> <br>
 
