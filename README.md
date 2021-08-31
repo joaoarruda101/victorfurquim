@@ -1,16 +1,27 @@
-### Hi there 👋
+###
+- 👋 Ola eu sou o Felipe Cassimiro.
+- 💻 Aluno do programa entra  21 Blusoft. 
+- Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
+###
+ <div>
+  <a href="https://github.com/felipecassimirodev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecassimirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecassimirodev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!--
-**victorfurquim/victorfurquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://i1.wp.com/codigosimples.net/wp-content/uploads/2016/05/sql.png?fit=298%2C240&ssl=1">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/ocassimirofelipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fcassimiro94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-cassimiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a target="_blank" href="https://api.whatsapp.com/send?phone=554792456842&text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
