@@ -29,5 +29,13 @@ Eu sou Alex Gross
 
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> <br>
+ 
+  <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
+
+ </div>
 
 
