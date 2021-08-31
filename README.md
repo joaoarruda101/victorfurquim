@@ -1,6 +1,6 @@
 Olá!
 
-Eu sou Alex Gross
+Eu sou João Victor Furquim
 
 
 
@@ -8,7 +8,7 @@ Eu sou Alex Gross
 
 
 
-- 🔭 Hoje trabalho com Desenvolvimento Front-end
+- 🔭 Hoje trabalho com Desenvolvimento Front-end e Back-end
 
 
 <!-- Painel de Trabalhos -->
