@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victorfurquim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="victorfurquim-JavaScript" height="30" width="40" src="https://i1.wp.com/codigosimples.net/wp-content/uploads/2016/05/sql.png?fit=298%2C240&ssl=1">
+   
 </div>
   
   ##
