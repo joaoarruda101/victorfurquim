@@ -10,7 +10,6 @@ Eu sou Alex Gross
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-end
 
-- 🌱 Estudando novas tecnologias como: UI/Disigner (FIGMA E INVISIBLE), Flutter e C# .NET
 
 <!-- Painel de Trabalhos -->
 
