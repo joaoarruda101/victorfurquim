@@ -8,7 +8,7 @@ Eu sou João Victor Furquim
 
 
 
-- 🔭 Hoje trabalho com Desenvolvimento Front-end e Back-end
+- 🔭 Atualmente trabalho com Desenvolvimento Front-end
 
 
 <!-- Painel de Trabalhos -->
