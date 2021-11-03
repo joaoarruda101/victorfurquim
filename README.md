@@ -10,7 +10,7 @@
  
 ```kotlin
 const name = 'João Victor Furquim de Arruda'
-const valores  = ['C#' , 'JavaScript']
+const ling = ['C#' , 'JavaScript']
 
  function Evolution(min, max){
     const valor = Math.random() * (max - min) + min
