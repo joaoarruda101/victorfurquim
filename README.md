@@ -25,7 +25,7 @@ while(opcao != -1){
         console.log('ESTUDAR AO EXTREMO')
   }else if(NivelDeProgramacao > 5){
      console.log('ESTUDAR MUITO MAIS')
- }
+   }
 }
 
 ```
