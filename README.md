@@ -9,12 +9,9 @@
 <div>
  
  ```kotlin
-const name = 'João Victor Furquim de Arruda'
-var linguagens ['C#' , 'JavaScript']
- 
- function Programador () {
-    
- }
+const nome = 'João Victor Furquim de Arruda'
+var ling ['C#' , 'JavaScript']
+
 ```
 
  <a href="https://github.com/victorfurquim">
