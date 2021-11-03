@@ -11,6 +11,18 @@
  ```kotlin
 const nome = 'João Victor Furquim de Arruda'
 var ling ['C#' , 'JavaScript']
+ 
+ function getInteiroAleatorioEntre(min, max){
+    const valor = Math.random() * (max - min) + min
+    return Math.floor(valor)
+}
+
+let NivelDeProgramacao = 0
+
+while(opcao != -1){
+    NivelDeProgramacao = getInteiroAleatorioEntre(-1, 10)
+    console.log(`Opção escolha foi ${opcao}.`)
+}
 
 ```
 
