@@ -9,7 +9,7 @@
 <div>
  
  ```kotlin
-const nome = 'João Victor Furquim de Arruda'
+const name = 'João Victor Furquim de Arruda'
 var ling ['C#' , 'JavaScript']
  
  function Evolution(min, max){
