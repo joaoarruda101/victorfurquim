@@ -7,6 +7,17 @@
 <!-- Painel de Trabalhos -->
 
 <div>
+ 
+ ```kotlin
+Class Felipejaci 
+{
+  string name = "Felipe Andrei Jacinto";
+  string acknowledgements = "Programador novato";
+ 
+  string[] primarySkillset = "Team work, Comunication";
+  List<string> languages = ("C#"); 
+}
+```
 
  <a href="https://github.com/victorfurquim">
 
