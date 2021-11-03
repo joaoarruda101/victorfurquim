@@ -9,14 +9,8 @@
 <div>
  
  ```kotlin
-Class Felipejaci 
-{
-  string name = "Felipe Andrei Jacinto";
-  string acknowledgements = "Programador novato";
- 
-  string[] primarySkillset = "Team work, Comunication";
-  List<string> languages = ("C#"); 
-}
+const name = 'João Victor Furquim de Arruda'
+var idade = 17
 ```
 
  <a href="https://github.com/victorfurquim">
