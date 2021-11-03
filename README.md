@@ -1,7 +1,3 @@
-Olá!
-
-Eu sou João Victor Furquim
-
 
 
 <!-- Apresentação -->
