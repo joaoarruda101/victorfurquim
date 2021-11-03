@@ -19,7 +19,7 @@ const valores  = ['C#' , 'JavaScript']
 
 let NivelDeProgramacao = 0
 
-while(opcao != -1){
+while(NivelDeProgramacao != -1){
     NivelDeProgramacao = Evolution(-1, 10)
     if(NivelDeProgramacao <= 5){
         console.log('ESTUDAR AO EXTREMO')
