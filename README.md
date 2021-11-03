@@ -10,7 +10,11 @@
  
  ```kotlin
 const name = 'João Victor Furquim de Arruda'
-var idade = 17
+var linguagens ['C#' , 'JavaScript']
+ 
+ function Programador () {
+    
+ }
 ```
 
  <a href="https://github.com/victorfurquim">
