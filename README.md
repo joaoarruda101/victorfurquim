@@ -20,10 +20,10 @@ const ling = ['C#' , 'JavaScript']
 let NivelDeProgramacao = 0
 
 while(NivelDeProgramacao != -1){
-    NivelDeProgramacao = Evolution(-1, 10)
-    if(NivelDeProgramacao <= 5){
+    NivelDeProgramacao = Evolution(-1, 100)
+    if(NivelDeProgramacao <= 50){
         console.log('ESTUDAR AO EXTREMO')
-  }else if(NivelDeProgramacao > 5){
+  }else if(NivelDeProgramacao > 50){
      console.log('ESTUDAR MUITO MAIS')
    }
 }
